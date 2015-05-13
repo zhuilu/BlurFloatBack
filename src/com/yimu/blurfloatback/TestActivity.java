@@ -1,9 +1,7 @@
 package com.yimu.blurfloatback;
 
 import java.io.IOException;
-
 import com.linwei.blurfloatback.R;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -24,7 +22,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 public class TestActivity extends Activity {
-
+//dai 2015 for test android studo push to github
 	private Button btn_cap;
 	private Button btn_test_cap;
 	private boolean isCheck;
